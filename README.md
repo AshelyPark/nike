@@ -49,7 +49,7 @@ DB구성을 요약한 ERD 입니다.
 그리고 필터검색을 통하여 원하는 조건의 상품만 조회할 수 도 있습니다.  
 
 ##### 지도
-![image](https://user-images.githubusercontent.com/112607474/204301797-f9b26c41-45f0-4aed-86bb-935687281ad7.png)
+![image](https://user-images.githubusercontent.com/112607474/204422513-7a1f1909-9f0d-440b-8547-966b47247207.png)
 카카오 맵 api를 이용하여 오프라인 매장 찾기를 구현했습니다.  
 
 ##### 상품구매
